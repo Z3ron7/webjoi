@@ -2,7 +2,7 @@ import React from 'react';
 import { useSelector } from 'react-redux';
 import { useDispatch } from 'react-redux';
 import { delCart } from '../redux/action/';
-import handleCart from '../redux/reducer/handleCart';
+// import handleCart from '../redux/reducer/handleCart';
 import { addCart } from '../redux/action/index';
 import { NavLink } from 'react-router-dom';
 
